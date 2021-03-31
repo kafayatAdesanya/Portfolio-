@@ -1,25 +1,62 @@
-body {
+ body {
 background: #efefef;
 font-family: arial;
 text-align: center;
+width: 1400px;
+margin-left: auto;
+margin right: auto;
 }
-
 h1 {
-font-size: 20px;
+font-size: 50px;
 background: red;
 }
+
 a {
 color: #000000;
-text-decoration; underline;
+text-decoration: none;
+text-align: left;
+font-size: 18px
+float: left;
+padding: 10px;
+margin-left: auto;
+margin-right: auto;
+width: 1200px;
+left: 50%
+
 }
 a:hover {
 color: #000000;
 text-decoration: none;
+text-align; left;
 }
-p {
+#nav {
+width: 180px;
+float: left;
+text-align: left;
+}
+
+#footer{
+clear: both;
+
+}
+form {
 font-size: 18px;
 font-family: biome;
-background: white;
+width: 1200px;
+margin-left: auto;
+margin right: auto;
+float: right;
+padding: 10px;
 }
 
+input {
 
+height: 25px;
+width: 400px;
+letter-spacing: 20px;
+{
+
+form .submit {
+height: 500px;
+
+}
