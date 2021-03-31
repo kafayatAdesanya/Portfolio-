@@ -1,0 +1,25 @@
+body {
+background: #efefef;
+font-family: arial;
+text-align: center;
+}
+
+h1 {
+font-size: 20px;
+background: red;
+}
+a {
+color: #000000;
+text-decoration; underline;
+}
+a:hover {
+color: #000000;
+text-decoration: none;
+}
+p {
+font-size: 18px;
+font-family: biome;
+background: white;
+}
+
+
