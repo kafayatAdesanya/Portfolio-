@@ -1,2 +1,26 @@
+<DOCTYPE/>
 <html>
+<head>
+<title> Portfolio</title>
+<link rel="stylesheet" href="cssportfolio/style.css" />
+</head>
+<body>
+<h1>The Portfolio</h1>
+
+<div id="nav">
+<ul>
+      <li><a href="home.html">Home page</a></li>
+      <li><a href="portfolio.html">Portfolio</a></li>
+      <li><a class="selected" href="contact.html">Contact us</a></li>
+      <li><a href="cv.html">Our CV</a></li>
+      <li><a href="sitereport.html">Site Report</a></li>
+</ul>
+</div>
+<p> Please do take some time to skeem through some of our most </br>
+valued pieces. We're confident that you'll be most please with the </br>
+contents displayed below </p>
+
+
+</body
 </html>
+
