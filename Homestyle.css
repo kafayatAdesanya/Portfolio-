@@ -1,0 +1,57 @@
+body {
+background: #efefef;
+font-family: arial;
+text-align: center;
+width: 100%px;
+margin-left: auto;
+margin-right: auto;
+}
+
+h1 {
+font-size: 50px;
+background: red;
+}
+a {
+color: #000000;
+text-decoration: none;
+text-align: right;
+font-size: 18px;
+float: right;
+padding: 12px;
+margin-left: 10px;
+margin-right: 10px;
+width: 100%px;
+
+}
+a:hover {
+color: #000000;
+text-decoration: none;
+text-align: left;
+}
+#nav {
+width: 180px;
+float: left;
+text-align: left;
+}
+p {
+font-size: 18px;
+font-family: biome;
+background: white;
+width: 800px;
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+padding: 18px;
+float: auto;
+
+}
+ul {
+    list-style-type: none;
+}
+
+#footer{
+clear: both;
+padding: 200px;
+
+}
+

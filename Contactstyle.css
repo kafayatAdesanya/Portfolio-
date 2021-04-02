@@ -1,0 +1,108 @@
+ body {
+background: #efefef;
+font-family: arial;
+text-align: center;
+width: 100%px;
+margin-left: auto;
+margin-right: auto;
+}
+h1 {
+font-size: 50px;
+background: red;
+}
+
+a {
+    color: #000000;
+    text-decoration: none;
+    text-align: right;
+    font-size: 18px;
+    float: right;
+    padding: 12px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 100%px;
+
+}
+
+ul{
+    list-style: none;
+}
+a:hover {
+color: #000000;
+text-decoration: none;
+text-align: left;
+}
+
+#nav {
+width: 180px;
+float: left;
+text-align: left;
+}
+
+
+#footer{
+clear: both;
+
+}
+form {
+max-width: 600px;
+background-color: white;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+box-sizing: border-box;
+border-radius: 1px;
+text-align: center;
+font-size: 18px;
+font-family: biome;
+width: 85%;
+float: right;
+padding: 30px 40px;
+margin-top: 20px;
+}
+
+txtb label {
+display: block;
+text-align: left;
+color: #333;
+text-transform: uppercase;
+font-size: 14px;
+}
+input {
+width: 100%;
+background: none;
+outline: none;
+font-size: 18px;
+margin-top: 1px;
+border-style: groove;
+
+}
+textarea {
+margin-top: 2px;
+border-style: groove;
+}
+
+button {
+display: block;
+background-color: red;
+padding: 14px 0;
+color: auto;
+text-transform: uppercase;
+cursor: pointer;
+margin-top: 8px;
+width: 100%;
+font-size: 20px;
+}
+
+
+
+form .submit {
+height: 500px;
+
+}
+
+#footer{
+clear: both;
+
+}
